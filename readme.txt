@@ -1,1 +1,0 @@
-Here are my python projects. It will be saved and worked on in this folder going forward.
