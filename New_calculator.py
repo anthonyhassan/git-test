@@ -44,3 +44,4 @@ while True:
         print(first//second)
     else:
         print("Unable to process request")
+print("----------------------------------------------------------")
