@@ -28,7 +28,7 @@ try:
                 second = int(input("Enter your second number: "))
                 break
             except ValueError:
-                print("Error: Enter a valid input")
+                print("Error: Enter a valid input ")
         if operation == 1:
             print(first + second)
         elif operation == 2:
