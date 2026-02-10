@@ -30,7 +30,7 @@ while True:
                 print(f"{index}. {task}")
             number = int(input("Enter task number to remove: "))
             tasks.pop(number - 1)
-            print("Task removed.")
+            print("Task removed. ")
 
     elif choice == "4":
         print("Goodbye!")
