@@ -43,9 +43,9 @@ try:
         elif operation == 5:
             print(first % second)
         elif operation == 6:
-            print(first //second)
+            print(first // second)
         else:
             print("Unable to process request")
 
 except:  
-    ValueError 
+    ValueError
