@@ -22,7 +22,7 @@ while True:
                 print(f" {key}: {value}")
     elif choice==3:
         if not grades:
-            print("No Name/score added")
+            print("No Name/score added ")
         else:
             print(f" Class Average= {sum(grades.values())/len(grades)}")   
            
