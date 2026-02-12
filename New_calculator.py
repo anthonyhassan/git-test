@@ -47,5 +47,5 @@ try:
         else:
             print("Unable to process request")
 
-
-except 
+except:  
+    ValueError 
